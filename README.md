@@ -1,1 +1,3 @@
 # product-landing-page
+# หน้าแนะนําสนค้า
+เว็บไซต์แนะนําสนค้าแบบ  Responsive สร้างด้วย HTML และ TailwindCSS
